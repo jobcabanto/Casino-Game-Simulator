@@ -1,4 +1,4 @@
-# CasinoGameSimulator
+# Casino Game Simulator
 
 The program was created to simulate 100 games of the casino game, "Black Suits" which was made up in my Grade 12 Data Management class by my peers and I.
 
